@@ -1,0 +1,6 @@
+{
+  "name": "StockPulse - Inventory & Barcode Replenishment Hub",
+  "description": "Real-time inventory management with atomic barcode sales scanning, automated breach detection, supplier reorder drafts, and transactional email approval gates.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
